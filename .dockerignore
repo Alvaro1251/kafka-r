@@ -1,0 +1,6 @@
+.git/
+.codebase-memory/
+salidas/
+.Rhistory
+.RData
+.Rproj.user/

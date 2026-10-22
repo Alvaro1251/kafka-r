@@ -1,0 +1,14 @@
+# Resultados generados por los visores
+salidas/
+
+# Índice local regenerable del código
+.codebase-memory/
+
+# Archivos temporales de R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
